@@ -1,6 +1,10 @@
 # Jetson-TensorRT
-## 1.requirement
+
 TensorRT for Jetson Nano
+
+## 1.requirement
+
+Jetpack=4.6.6
 
 Source code of TensorRT=8.4.1.9
 
